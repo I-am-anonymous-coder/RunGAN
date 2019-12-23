@@ -1,0 +1,2 @@
+# RunGAN
+For testing 
